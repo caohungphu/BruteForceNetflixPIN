@@ -6,3 +6,4 @@ Brute Force Netflix PIN
 # Usage
 - `pip install requirements.txt`
 - `python main.py`
+[![Watch the video](https://img.youtube.com/vi/E2BxTJ4uR-M/maxresdefault.jpg)](https://youtu.be/E2BxTJ4uR-M)
