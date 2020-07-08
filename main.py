@@ -5,8 +5,8 @@ import PythonMagick
 import os
 
 TIME_COUNT = 5
-BEGIN = 1300
-END = 1310
+BEGIN = 0
+END = 9999
 
 def Init():
 	print("Brute Force Netflix PIN - Cao Hung Phu")
